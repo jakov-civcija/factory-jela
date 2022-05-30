@@ -1,3 +1,5 @@
+.idea
+/storage
 
 ###> symfony/framework-bundle ###
 /.env.local
